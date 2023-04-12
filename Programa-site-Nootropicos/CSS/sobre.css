@@ -1,0 +1,82 @@
+body{
+    width: 930px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    text-align: justify;
+    background-color: black;
+    color: white;
+    
+}
+
+.titulo{
+    padding: 10px;
+    font-size: 32px;
+    text-align: center;
+    background-color: midnightblue;
+    
+}
+.subtitulo{
+    border-bottom: 2px solid black;
+}
+
+.logo01{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+ 
+    
+}
+.Principal{
+    width: 600px;
+    border: 0;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.img2{
+    width: 190px;
+    float: right;
+
+    margin: 10px;
+
+}
+
+
+figure{
+    
+    font-size: 10px;
+    text-align: center;
+    background-color:rgb(14, 14, 20);
+    border: 1px solid midnightblue;
+    margin: 30px;
+    padding: 15px;
+
+}
+.img1{
+    width: 550px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+.img3{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    border-bottom: 1px solid white;
+}
+
+figcaption{
+    margin-top: 10px;
+}
+h2{
+    margin-top: 30px;
+    margin-block-end: 30px;
+}
